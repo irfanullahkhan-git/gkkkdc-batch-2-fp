@@ -1,0 +1,3 @@
+Line 1: Hello, world!
+Line 2: Writing to the file.
+Appending a new line to the file.
